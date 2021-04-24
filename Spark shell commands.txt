@@ -1,0 +1,1 @@
+pyspark --master yarn --num-executors 3 --executor-memory 2g
